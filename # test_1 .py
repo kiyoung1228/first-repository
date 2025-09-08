@@ -12,21 +12,21 @@ product4_name = "빵"
 product4_price = 5500
 
 product5_name = "계란"
-product5_price = 6000
+product5_price = 7000
 
 product6_name = "치즈"
 product6_price = 7000
 
-product7_name = "감자"
-product7_price = 2000
+product7_name = "마라탕"
+product7_price = 4000
 
-product8_name = "양파"
+product8_name = "샤브샤브"
 product8_price = 1500
 
 product9_name = "닭고기"
 product9_price = 12000
 
-product10_name = "소고기"
+product10_name = "스테이크"
 product10_price = 25000
 
 # 총 금액 저장
